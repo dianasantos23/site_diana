@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+.cabecalho {
+    width: 100%;
+    padding: 20px 0%;
+}
+
+.nav_lista {
+    display: flex;
+    list-style: none;
+    gap: 28px;
+    text-transform: uppercase;
+}
